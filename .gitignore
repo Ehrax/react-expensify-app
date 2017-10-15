@@ -100,3 +100,4 @@ typings/
 
 # custom ignores
 public/*
+!public/.gitkeep
