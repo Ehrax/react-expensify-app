@@ -99,5 +99,5 @@ typings/
 # End of https://www.gitignore.io/api/node,macos,visualstudiocode
 
 # custom ignores
-public/*
-!public/.gitkeep
+public/dist/*
+!public/public/.gitkeep
