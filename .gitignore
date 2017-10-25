@@ -100,3 +100,5 @@ typings/
 
 # custom ignores
 public/dist/
+.env.test
+.env.development
